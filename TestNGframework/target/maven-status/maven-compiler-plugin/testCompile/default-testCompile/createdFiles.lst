@@ -1,0 +1,4 @@
+com\trainig\pages\Homepage.class
+com\trainig\pages\loginpage.class
+com\training\testcases\loginTest.class
+com\training\testcases\HomeTest.class

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T17:43:10 EDT" name="Default suite" finished-at="2024-04-16T17:43:20 EDT" duration-ms="9554">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T17:43:10 EDT" name="Default test" finished-at="2024-04-16T17:43:20 EDT" duration-ms="9554">
+      <class name="com.training.testcases.loginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.training.testcases.loginTest@498d318c]" started-at="2024-04-16T17:43:10 EDT" name="beforeMethod" finished-at="2024-04-16T17:43:19 EDT" duration-ms="8982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="InvalidLogin()[pri:0, instance:com.training.testcases.loginTest@498d318c]" started-at="2024-04-16T17:43:19 EDT" name="InvalidLogin" finished-at="2024-04-16T17:43:20 EDT" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.training.testcases.loginTest@498d318c]" started-at="2024-04-16T17:43:20 EDT" name="teardown" finished-at="2024-04-16T17:43:20 EDT" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.training.testcases.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
